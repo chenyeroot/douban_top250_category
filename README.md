@@ -1,0 +1,2 @@
+# douban_top250_category
+一个爬取豆瓣电影top250的电影种类的小爬虫，并且用pyecharts进行了可视化
