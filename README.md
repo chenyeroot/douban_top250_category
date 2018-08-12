@@ -11,6 +11,6 @@ pip install BeautifulSoup
 pip install pyecharts
 ```
 
-安装完毕后直接运行代码即可
+安装完毕后直接运行代码“top250.py”即可
 
 最后结果显示在一个在render的html文件中，点击打开即可查看
